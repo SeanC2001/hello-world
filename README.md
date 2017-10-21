@@ -1,2 +1,4 @@
 # hello-world
-I'm learner
+
+Hi Human!
+BOOM!
